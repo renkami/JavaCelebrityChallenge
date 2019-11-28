@@ -1,0 +1,6 @@
+Id,Name,Knows
+1,Luis,"2,3,4,5"
+2,Camilo,"1,5"
+3,Peter,"1,4,5"
+4,Juan,"2,3,5"
+5,Mr Famous,""

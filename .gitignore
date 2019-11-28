@@ -25,6 +25,7 @@ hs_err_pid*
 
 .metadata
 bin/
+.idea/
 tmp/
 *.tmp
 *.bak
